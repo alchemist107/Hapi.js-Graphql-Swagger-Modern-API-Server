@@ -1,0 +1,21 @@
+{
+  "name": "graphql-app",
+  "version": "1.0.0",
+  "description": "Nodejs app built using GraphQl && MongoDb && Hapi && Swagger",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-hapi": "^1.3.6",
+    "graphql": "^14.0.2",
+    "hapi": "^17.6.0",
+    "hapi-swagger": "^9.1.2",
+    "inert": "^5.1.0",
+    "mongoose": "^5.3.4",
+    "nodemon": "^1.18.4",
+    "vision": "^5.4.0"
+  }
+}
