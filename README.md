@@ -1,4 +1,4 @@
-# InstaBot
+# Hapi.js && Swagger && Graphql Api
 
 Hapi.js Modern API Server built using Graphiql plugin,Graphql ,Swagger,apollo
 
